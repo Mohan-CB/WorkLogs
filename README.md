@@ -31,3 +31,10 @@
 - [Code][CW-2675] compress proxy email address, TS version done, basic working prototype done, optimizing now.
 - [Follow up][CW-2674][CW-2383] webhook updated test instructions on spam_complaint event
 - [Code Review] xxx's PR about refactor, feedback given
+
+7/4/2019
+
+- [Code][CW-2674][CW-2383][Code Review] event search, exponential backoff strategy done
+- [Code][CW-2674][CW-2382][In Progress] event webhook processing, rejected by QA since spam_complaint event needs more dependency from siteops on the bounce domain
+- [Code][CW-2675][In Progress] compress proxy email address, TS version done, however, found an error with the implementation about the special character support in the original payload, the algorithm design is fragil since the algorithm relies on the special character '_\' as the delimiter, need to talk to XXX about it and fix.
+- [Refactor][In Progress] insertOptFooter func
