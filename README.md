@@ -37,4 +37,8 @@
 - [Code][CW-2674][CW-2383][Code Review] event search, exponential backoff strategy done
 - [Code][CW-2674][CW-2382][In Progress] event webhook processing, rejected by QA since spam_complaint event needs more dependency from siteops on the bounce domain
 - [Code][CW-2675][In Progress] compress proxy email address, TS version done, however, found an error with the implementation about the special character support in the original payload, the algorithm design is fragil since the algorithm relies on the special character '_\' as the delimiter, need to talk to XXX about it and fix.
-- [Refactor][In Progress] insertOptFooter func
+
+7/5/2019
+
+- [Code Refactor][Code Review] working with XXX on logging service and related. PR made
+- [Code][CW-2674][CW-2383][Code Review] event search, exponential backoff strategy done, fix conflicts with new Logging service.
