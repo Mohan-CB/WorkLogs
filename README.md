@@ -42,3 +42,9 @@
 
 - [Code Refactor][Code Review] working with XXX on logging service and related. PR made
 - [Code][CW-2674][CW-2383][Code Review] event search, exponential backoff strategy done, fix conflicts with new Logging service.
+
+7/6/2019
+
+- [Code][In Progress] add test coverage tool
+- [Code][CW-2674][CW-2383][Code Review][Code Refactor] event search, exponential backoff strategy done, fix conflicts with new Logging service.
+- [Test] new logging service and related. PR made
