@@ -48,3 +48,9 @@
 - [Code][In Progress] add test coverage tool
 - [Code][CW-2674][CW-2383][Code Review][Code Refactor] event search, exponential backoff strategy done, fix conflicts with new Logging service.
 - [Test] new logging service and related. PR made
+
+7/8/2019
+
+- [Code][In Progress] add test coverage tool
+- [Code][CW-2674][CW-2383][Code Review][Code Refactor] event search, exponential backoff strategy done, fix conflicts with new Logging service.
+- [Code][CW-3267]rules service, undeliverable rule
