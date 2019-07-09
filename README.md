@@ -54,3 +54,13 @@
 - [Code][In Progress] add test coverage tool
 - [Code][CW-2674][CW-2383][Code Review][Code Refactor] event search, exponential backoff strategy done, fix conflicts with new Logging service.
 - [Code][CW-3267]rules service, undeliverable rule
+
+7/9/2019
+
+- [Code][In Progress] add test coverage tool
+- [Code][CW-2674][CW-2383][Merged][QA Test] event search, exponential backoff strategy done, fix conflicts with new Logging service.
+- [Setup][CW-2383]setup CloudWatch to trigger the route daily
+  - CloudWatch definition
+  - Lambda / ECS task definition 
+- [Code][CW-3267][Code Review]rules service, undeliverable rule
+- [Code][Code Review][Refactor] insertOptFooter PR, fix subanchoIndex logic
