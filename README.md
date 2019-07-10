@@ -64,3 +64,12 @@
   - Lambda / ECS task definition 
 - [Code][CW-3267][Code Review]rules service, undeliverable rule
 - [Code][Code Review][Refactor] insertOptFooter PR, fix subanchoIndex logic
+
+
+7/10/2019
+
+- [Code][Code Review] add test coverage tool
+- [Setup][CW-2383]setup CloudWatch to trigger the route daily
+  - CloudWatch definition
+  - Lambda / ECS task definition
+- [Code] add testcases for models
