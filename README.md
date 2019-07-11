@@ -72,4 +72,15 @@
 - [Setup][CW-2383]setup CloudWatch to trigger the route daily
   - CloudWatch definition
   - Lambda / ECS task definition
-- [Code] add testcases for models
+- [Code][In Progress]add testcases for models
+- [Demo] record demos for CW-2674 event webhook feature and CW-2605 unsubscribe feature
+
+7/11/2019
+
+- [Code][Code Review] add testcases for models
+- [Bugfix][In Progress] CW-3311 
+- [Setup][CW-2383]setup CloudWatch in staging to trigger the route daily
+  - CloudWatch definition
+  - Lambda / ECS task definition
+- [Code][Code Review] add test coverage tool
+- [Code][Code Review Feedback] compress email length 
