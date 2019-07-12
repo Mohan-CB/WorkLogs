@@ -84,3 +84,12 @@
   - Lambda / ECS task definition
 - [Code][Code Review] add test coverage tool
 - [Code][Code Review Feedback] compress email length 
+
+
+7/12/2019
+- [Bugfix][In Progress] CW-3311
+- [Code Review] 3080
+- [Code][In Progress] add tests for services
+- [Code][Code Review] add testcases for models
+- [Code][Code Review] add test coverage tool
+
