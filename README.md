@@ -61,7 +61,7 @@
 - [Code][CW-2674][CW-2383][Merged][QA Test] event search, exponential backoff strategy done, fix conflicts with new Logging service.
 - [Setup][CW-2383]setup CloudWatch to trigger the route daily
   - CloudWatch definition
-  - Lambda / ECS task definition 
+  - Lambda / ECS task definition
 - [Code][CW-3267][Code Review]rules service, undeliverable rule
 - [Code][Code Review][Refactor] insertOptFooter PR, fix subanchoIndex logic
 
@@ -78,12 +78,12 @@
 7/11/2019
 
 - [Code][Code Review] add testcases for models
-- [Bugfix][In Progress] CW-3311 
+- [Bugfix][In Progress] CW-3311
 - [Setup][CW-2383]setup CloudWatch in staging to trigger the route daily
   - CloudWatch definition
   - Lambda / ECS task definition
 - [Code][Code Review] add test coverage tool
-- [Code][Code Review Feedback] compress email length 
+- [Code][Code Review Feedback] compress email length
 
 
 7/12/2019
@@ -93,3 +93,18 @@
 - [Code][Code Review] add testcases for models
 - [Code][Code Review] add test coverage tool
 
+7/15/2019
+- [Bugfix][Code Review] DecryptionService has a bug which blockes the whole workflow, fixed
+- [Bugfix][In Progress] CW-3311
+- [Code][In Progress] add tests for services
+- [Code][Code Review] add testcases for models
+- [Code][Code Review] add test coverage tool
+
+
+7/16/2019
+- [Bugfix][Code Review] DecryptionService has a bug which blockes the whole workflow, fixed
+  - related Bugs [Code Review] CW-2257 CW-3358
+- [Bugfix][In Progress] CW-3311
+- [Code][In Progress] add tests for services
+- [Code][Code Review] add testcases for models
+- [Code][Code Review] add test coverage tool
