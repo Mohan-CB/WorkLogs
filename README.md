@@ -108,3 +108,11 @@
 - [Code][In Progress] add tests for services
 - [Code][Code Review] add testcases for models
 - [Code][Code Review] add test coverage tool
+
+7/17/2019
+-[Bugfix][Code review] CW-3311
+- redis high concurrency problem
+  - 1. use atomic operations with buffer (done)
+  - 2. use redis-lock [in progress]
+  - 3. compare performance, load testing
+- part of the rules engine code is lost in the refactor stage because of force push, revised, pr made
