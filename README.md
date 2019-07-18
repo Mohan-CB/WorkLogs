@@ -116,3 +116,12 @@
   - 2. use redis-lock [in progress]
   - 3. compare performance, load testing
 - part of the rules engine code is lost in the refactor stage because of force push, revised, pr made
+
+7/18/2019
+-[Bugfix][Code review] CW-3311
+-[Code review] redis high concurrency problem
+  - 1. use atomic operations with buffer [done]
+  - 2. use redis-lock [done]
+  - 3. compare performance, load testing [done]
+- [Code review]part of the rules engine code is lost in the refactor stage because of force push, revised, pr made
+- [Miscellenous]attend cab meeting for GCM-6091
