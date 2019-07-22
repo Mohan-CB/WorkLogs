@@ -132,3 +132,16 @@
 - [Code review] redis high concurrency problem
 - [Code review]part of the rules engine code is lost in the refactor stage because of force push, revised, pr made
 - [Miscellenous] configuration work for staging env
+    -  [done]replace `xxxxx` with `xxxxxx` for receiving and sending emails
+    -  [done] new-relic alert slack integration setup for channel  #oppsstagingalerts
+      - error rate high
+      - apdex low
+      - request take too long
+    - [In progress] bounce domain setup
+
+7/20/2019
+- [Code Review] mysql query results cache in redis
+- [Miscellenous] configure new-relic apdex benchmark index to be 0.8. the original one was 0.1
+- [Documentation][In Progress] api documentation
+- [Testcases][In Progress] services tests
+- [Bug] investigate potential node vm memory leak
