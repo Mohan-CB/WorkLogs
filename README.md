@@ -139,9 +139,15 @@
       - request take too long
     - [In progress] bounce domain setup
 
-7/20/2019
+7/22/2019
 - [Code Review] mysql query results cache in redis
 - [Miscellenous] configure new-relic apdex benchmark index to be 0.8. the original one was 0.1
 - [Documentation][In Progress] api documentation
 - [Testcases][In Progress] services tests
 - [Bug] investigate potential node vm memory leak
+
+7/23/2019
+- [Bug] investigate potential node vm memory leak, aws related
+  - [ ] add pm2 to restart at memory usage at 600mb
+  - [ ] investigate the root cause
+- [In Progress] integrate the send message functionality into the new UI
