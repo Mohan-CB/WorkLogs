@@ -151,3 +151,10 @@
   - [ ] add pm2 to restart at memory usage at 600mb
   - [ ] investigate the root cause
 - [In Progress] integrate the send message functionality into the new UI
+
+7/24/2019
+- [Bug] investigate potential node vm memory leak, aws related
+  - [x] add pm2 to restart at memory usage at 600mb, will monitor performance over the time 
+  - [ ] investigate the root cause
+- [In Progress] integrate the send message functionality into the new UI, share observations and questions
+
