@@ -158,3 +158,6 @@
   - [ ] investigate the root cause
 - [In Progress] integrate the send message functionality into the new UI, share observations and questions
 
+7/25/2019
+- setup the local dev env for cbdash-ui and services. spinned up 90% functionalities
+- investigate the root cause for opps vm mem leak
