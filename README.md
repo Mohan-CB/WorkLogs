@@ -161,3 +161,11 @@
 7/25/2019
 - setup the local dev env for cbdash-ui and services. spinned up 90% functionalities
 - investigate the root cause for opps vm mem leak
+
+7/26/2019
+- [CW-3383] hook up message modal on the cbdash ui, compoennts added,working on the styles
+- confirm the pm2 restart mechanism works, PR merged
+
+7/27/2019
+- investigate the root cause for the offplatform node vm mem leak bug
+  - [ ] poc, isolate the memssage poller package out and monitor the memory usage
