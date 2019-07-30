@@ -169,3 +169,13 @@
 7/27/2019
 - investigate the root cause for the offplatform node vm mem leak bug
   - [ ] poc, isolate the memssage poller package out and monitor the memory usage
+
+7/29/2019
+- CW-3383 integrate the old send message modal to new TDP HP
+  - [x] solve conflicts with differnet angular versions and dependency problems with submodules
+- work with QA team on the tests, shared the postman collection of opps
+- work with Rui on the nodejs vm leak bug, located the root cause, working on a solution
+
+7/30/2019
+- CW-3383 give up on integrating the old send message modal, switch to new modal, working with HP to get the sending functionality done, provided the mc api postman collection
+- working on the opps nodejs vm mem leak bug
