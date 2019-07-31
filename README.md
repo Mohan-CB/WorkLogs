@@ -179,3 +179,7 @@
 7/30/2019
 - CW-3383 give up on integrating the old send message modal, switch to new modal, working with HP to get the sending functionality done, provided the mc api postman collection
 - working on the opps nodejs vm mem leak bug
+
+7/31/2019
+- CW-3383 working with Malar on the template api
+- investigate the root cause of yesterday incident
