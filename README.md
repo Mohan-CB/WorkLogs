@@ -183,3 +183,13 @@
 7/31/2019
 - CW-3383 working with Malar on the template api
 - investigate the root cause of yesterday incident
+
+8/1/2019
+- CW-3383 provide tests material to Malar
+- design and brain storm with team for strategies for fixing the firebase outage incident, proposed two layer new relic alerts
+
+8/2/2019
+- working on the testcases for opps 50% , covered all services
+
+8/3/2019
+- working on the testcases for opps 50%^, covering controllers  
