@@ -196,3 +196,8 @@
 
 
 ------------------------------ start of winter free work, groomimg code, no active dev for exisitng apps --------------------------
+
+8/5/2019
+- working on the testcases for opps 60%^, covering controllers
+- analyze the security alerts from github for mc api
+- working on mysql and firebase data migration script
