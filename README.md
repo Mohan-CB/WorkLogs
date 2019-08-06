@@ -198,6 +198,12 @@
 ------------------------------ start of winter free work, groomimg code, no active dev for exisitng apps --------------------------
 
 8/5/2019
-- working on the testcases for opps 60%^, covering controllers
-- analyze the security alerts from github for mc api
-- working on mysql and firebase data migration script
+- [Test Coverage]working on the testcases for opps 60%^, covering controllers
+- [CW-3517]working on mysql and firebase data migration script
+- [Misc]analyze the security alerts from github for mc api
+
+8/6/2019
+- [CW-3517][Work done][waiting for verification]mysql and firebase data migration script
+- [CW-3383][In Staging]verified with Malar on the HP send message feature
+- [Test Coverage]working on the testcases for opps 70%^, covering controllers
+- [Misc]report security alerts to Richard, nothing we could do since not direct dependencies
