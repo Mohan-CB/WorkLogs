@@ -1,5 +1,77 @@
 # WorkLogs
 
+TODO: 6/21
+
+- [x] Ediber's feedback on TN unsubscribe
+- [x] [CODE] save email content in the email_sent table
+- [x] [CODE] add git in docker container
+- [x] [FOLLOW UP] mc testcase
+- [x] [BUG report] CW-3215
+- [x] review XIaoshu Pr, Lin pr
+
+6/24/2019
+
+- [ ]  difficulty on importing emails to crms becauase different services provide their own email validation checks
+  - [ ] find a way to shorten the proxy email, give up on the security( not IV )
+  - [ ] binary data compression
+- [ ] (CW-2674) webhook stats from sparkpost
+  - [ ] create undeliverable table
+  - [ ] add check undeliverable logic to the ruleengine
+- [x] unsubscribe functionality
+  - [x] known problems: some email provides strips the unsubscribe link from the email
+  - [x] ediber is responsible for the app, not the url, need to ask brent.(slack message)
+- [x] [FOLLOW UP] jon's email
+- [x] [FOLLOW UP] lin's testcase
+- [x] [Bugfix] for a few known errors for Offplatform
+
+6/25
+
+- [ ] difficulty on importing emails to crms becauase different services provide their own email validation checks
+  - [ ] find a way to shorten the proxy email, give up on the security(not IV)
+  - [ ] binary data compression
+  - [ ] Seems like edge api contact mauricio is off yesterday.
+  - [ ] will keep testing it out today.
+- [x] unsubscribe functionality
+  - [x] unsub link host email sent
+  - [x] finsih the rest of the logic
+  - [x] clean up
+- [x] CW-2605 rule engine unsubscribes rule
+- [x] [Bugfix] for a few known errors for Offplatform
+- [x] review xiaoshu's PR about sqs
+- [x] (CW-2674) webhook stats from sparkpost
+  - [x] create undeliverable table
+  - [x] add check undeliverable logic to the ruleengine
+
+6/27
+
+- [ ] difficulty on importing emails to crms becauase different services provide their own email validation checks
+  - [ ] find a way to shorten the proxy email, give up on the security(not IV)
+  - [ ] binary data compression
+  - [ ] Seems like edge api contact mauricio is off yesterday.
+  - [ ] will keep testing it out today.
+- [x] CW-2605 rule engine unsubscribes rule
+- [x] (CW-2674) webhook stats from sparkpost
+  - [x] create undeliverable table
+  - [x] add check undeliverable logic to the ruleengine
+- [ ] ACEAO-4484 follow up on the xxxxx  domain
+- [ ] FOLLOW UP [CW-3264]setup xxxxxx
+
+6/28/2019
+
+- [x] CW-2605 rule engine unsubscribes rule, code review, qa test
+- [x] (CW-2674) webhook stats from sparkpost
+  - [x] receive events almost done
+    - [ ] update email to be delivered
+  - [ ] post to sparkpost for event api to request email status
+- [ ] [ACEAO-4484] follow up on the xxxxxx domain
+- [ ] [FOLLOW UP] [CW-3264] setup xxxxx
+- [ ] Remind Lin abou the.ngork link
+- [ ] difficulty on importing emails to crms becauase different services provide their own email validation checks
+  - [ ] find a way to shorten the proxy email, give up on the security(not IV)
+  - [ ] binary data compression
+  - [ ] Seems like edge api contact mauricio is off yesterday.
+  - [ ] will keep testing it out today.
+
 6/29/2019
 
 - [BUGFIX] reply can't be received due to defect logic in unsub rule, fixed, PR made, in staging, code review
