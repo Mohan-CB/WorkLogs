@@ -207,3 +207,10 @@
 - [CW-3383][In Staging]verified with Malar on the HP send message feature
 - [Test Coverage]working on the testcases for opps 70%^, covering controllers
 - [Misc]report security alerts to Richard, nothing we could do since not direct dependencies
+
+8/7/2019
+- [Test Coverage]working on the testcases for opps 75%, covering controllers
+- [Bugfix]working with Xiaoshu on a few bugfixes for MC, PR reviewed and merged
+
+8/8/2019
+- [Test Coverage]working on the testcases for opps 80%, covering controllers
