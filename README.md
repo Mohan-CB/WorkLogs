@@ -214,3 +214,7 @@
 
 8/8/2019
 - [Test Coverage]working on the testcases for opps 80%, covering controllers
+
+8/9/2019
+- [Test Coverage]working on the testcases for opps 90%, covering routes, pr being code review
+- [Doc] working on the swagger express doc generator
