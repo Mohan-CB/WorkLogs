@@ -218,3 +218,11 @@
 8/9/2019
 - [Test Coverage]working on the testcases for opps 90%, covering routes, pr being code review
 - [Doc] working on the swagger express doc generator
+
+8/12/2019
+- [Test Coverage]working on the testcases for opps 90%, covering routes, pr being code review
+
+8/13/2019
+- [Test Coverage]working on the testcases for opps 90%, covering routes, pr being code review
+- [bugfix] fix the validator which doesnt validate arrays of objects, a few other optimizations
+- [MISC] setup production env dependencies
