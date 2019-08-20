@@ -222,18 +222,25 @@
 8/12/2019
 - [Test Coverage]working on the testcases for opps 90%, covering routes, pr being code review
 
-V8/13/2019
+8/13/2019
 - [Test Coverage]working on the testcases for opps 90%, covering routes, pr being code review
 - [bugfix] fix the validator which doesnt validate arrays of objects, a few other optimizations
 - [MISC] setup production env dependencies
-
 
 8/14/2019
 - [Test Coverage]working on the testcases for opps 90%, covering routes, pr being code review
 - [bugfix] update to docker v19 breaked the jenkins build, revert to v18, pr merged 
 - [MISC] setup production env dependencies, spent some time on figuring the vpc out
 
-8/15
+8/15/2019
 - [MISC] done with deploy opps to production, tested
 - [Test Coverage]working on the testcases for opps 90%, covering routes, pr being code review
 
+8/16/2019
+- [Test Coverage]working on the testcases for opps 95%, covering routes, pr being code review
+
+8/19/2019
+- [tests] done with tests, cleaned up PR and ready for code review
+
+8/20/2019
+- tests being code reviewed, jenkins build error debug, deployed to staging for QA regression test
