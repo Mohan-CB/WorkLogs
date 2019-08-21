@@ -244,3 +244,8 @@
 
 8/20/2019
 - tests being code reviewed, jenkins build error debug, deployed to staging for QA regression test
+
+8/21/2019
+- reviewed Prs
+- tests being code reviewed, jenkins build error solved, deployed to staging for QA regression test
+- [CW-3708] in progress, frontend stuff
