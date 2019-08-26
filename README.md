@@ -249,3 +249,10 @@
 - reviewed Prs
 - tests being code reviewed, jenkins build error solved, deployed to staging for QA regression test
 - [CW-3708] in progress, frontend stuff
+
+8/22/2019
+- [CW-3708]code review
+- [CW-3694]in progress
+
+8/23/201
+- [CW-3694]code review
