@@ -254,5 +254,14 @@
 - [CW-3708]code review
 - [CW-3694]in progress
 
-8/23/201
+8/23/2019
 - [CW-3694]code review
+
+8/26/2019
+- misc - backlog grooming, CW-2694 merged
+
+8/27/2019
+- hackathon - https://github.com/Mohan-CB/lem
+
+8/28/2019
+- hackathon - https://github.com/Mohan-CB/lem
