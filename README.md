@@ -265,3 +265,12 @@
 
 8/28/2019
 - hackathon - https://github.com/Mohan-CB/lem
+
+9/4/2019
+- [CW-3592] in progress
+- [bugfix] serialization, code review
+
+9/5/2019
+- [CW-3592] code review
+- [bugfix] serialization, merged 
+- [bugfix] CW-3842, 3844, 3847 in progress
