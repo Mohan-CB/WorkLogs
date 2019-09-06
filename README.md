@@ -274,3 +274,10 @@
 - [CW-3592] code review
 - [bugfix] serialization, merged 
 - [bugfix] CW-3842, 3844, 3847 in progress
+
+9/6/2019
+- [CW-3592] code merged
+- [CW-3844] code review
+- [bugfix] CW-3842,3847 in progress
+- requeue in progress
+- opps dash board in progress
