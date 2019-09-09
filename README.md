@@ -281,3 +281,12 @@
 - [bugfix] CW-3842,3847 in progress
 - requeue in progress
 - opps dash board in progress
+
+9/9/2019
+- [CW-3842][CW-3847]code review
+- add auto assign bot, pr code review
+- update unmute calculation for a better results, pr code review
+- create campagin incident redirect, check with lin and richard
+- dead queue config in progress
+- [CW-2711]ip warm up, in progress
+- auto calculate sender reputation, in progress
