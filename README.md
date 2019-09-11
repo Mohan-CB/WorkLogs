@@ -290,3 +290,21 @@
 - dead queue config in progress
 - [CW-2711]ip warm up, in progress
 - auto calculate sender reputation, in progress
+
+9/10/2019
+- [CW-3842][CW-3847] follow up with sparkpost on the issue
+- add auto assign bot, pr code review
+- update unmute calculation for a better results, pr code review
+- [CW-2711]ip warm up, sqs dead letter queue, code review
+- add monitor for sqs dead letter queue
+- auto calculate sender reputation, in progress
+- add index for user user table
+
+9/11/2019
+- [CW-3842][CW-3847] in staging
+- add auto assign bot, need to configure a bit more
+- update unmute calculation for a better results, in production, will verify
+- [CW-2711]ip warm up, sqs dead letter queue, in staging
+- add monitor for sqs dead letter queue, in progress
+- add index for user user table, in progress
+
