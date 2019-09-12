@@ -308,3 +308,7 @@
 - add monitor for sqs dead letter queue, in progress
 - add index for user user table, in progress
 
+9/12/2019
+- add index for user user table, in progress
+- add monitor for sqs dead letter queue, in progress
+- Cw-3592 recruiter mute candidate,bugfix
