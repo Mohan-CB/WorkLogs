@@ -312,3 +312,7 @@
 - add index for user user table, in progress
 - add monitor for sqs dead letter queue, in progress
 - Cw-3592 recruiter mute candidate,bugfix
+
+9/13/2019
+- mid autumn festival
+- working on the mc data viz project
