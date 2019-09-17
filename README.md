@@ -302,7 +302,7 @@
 
 9/11/2019
 - [CW-3842][CW-3847] in staging
-- add auto assign bot, need to configure a bit more
+- add auto assign bot, need to configure a bit more, done
 - update unmute calculation for a better results, in production, will verify
 - [CW-2711]ip warm up, sqs dead letter queue, in staging
 - add monitor for sqs dead letter queue, in progress
@@ -316,3 +316,16 @@
 9/13/2019
 - mid autumn festival
 - working on the mc data viz project
+
+9/16/2019
+- [CW-3842][CW-3844] dev done, CW-3847 deleted
+- add monitor for sqs dead letter queue, cloudwatch + sns + email
+- add index for user user table, in progress
+- Cw-3592 recruiter mute candidate,bugfix
+- follow up with Jon's email
+- Ip warm up EM-364 in staging,ready for test
+
+9/17/2019
+- add index for user user table, in progress
+- Cw-3592 recruiter mute candidate,bugfix, done, ready for test
+- Ip warm up EM-364 in staging,ready for test
