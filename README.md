@@ -329,3 +329,10 @@
 - add index for user user table, in progress
 - Cw-3592 recruiter mute candidate,bugfix, done, ready for test
 - Ip warm up EM-364 in staging,ready for test
+
+9/18/2019
+- Cw-3592 recruiter mute candidate,bugfix, done, ready for test
+- CW-3592 frontend change, working with Lin
+- json serializer error work in progress
+- Ip warm up EM-364 in staging,ready for test, follow up meeting with lloyd
+- add index to 80m records table
