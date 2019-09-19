@@ -336,3 +336,8 @@
 - json serializer error work in progress
 - Ip warm up EM-364 in staging,ready for test, follow up meeting with lloyd
 - add index to 80m records table
+
+9/19/2019
+- Cw-3592 recruiter mute candidate,bugfix, done, ready for test
+- json serializer error work in progress
+- add index to 80m records table
