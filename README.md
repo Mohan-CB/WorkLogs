@@ -341,3 +341,15 @@
 - Cw-3592 recruiter mute candidate,bugfix, done, ready for test
 - json serializer error work in progress
 - add index to 80m records table
+
+9/20/2019
+- Cw-3592 recruiter mute candidate,bugfix, done, ready for test
+- EM-428 fix loading time for bee plugin, in progress
+
+9/23/2019
+- EM-428 fix loading time for bee plugin, PR raised, code review
+- json serializer error in progress
+- EM-394, EM-177 multiple qa bugs need to follow up
+- need to organize bookmarks for offplatform
+- add index to user table 80m
+
