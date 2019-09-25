@@ -353,3 +353,13 @@
 - need to organize bookmarks for offplatform
 - add index to user table 80m
 
+9/24/2019
+- GCM-7053 verified
+- EM-428 fix loading time for bee plugin, merged, will deploy
+- EM-394 done
+- EM-433, EM-177 in progress
+- create cab card for CW-3592, depends on xiaoshu's progress on updating firebase production
+
+9/25/2019
+- CW-3592 (EM-177, EM-435) in progress
+- EM-364 ( EM-433 related) IP warm up in progress
