@@ -363,3 +363,7 @@
 9/25/2019
 - CW-3592 (EM-177, EM-435) in progress
 - EM-364 ( EM-433 related) IP warm up in progress
+
+9/26/2019
+- EM-364 ( EM-433 related) in staging, ready for test
+- CW-3592 (EM-177, EM-435) in progress
