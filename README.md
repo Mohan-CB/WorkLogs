@@ -367,3 +367,6 @@
 9/26/2019
 - EM-364 ( EM-433 related) in staging, ready for test
 - CW-3592 (EM-177, EM-435) in progress
+
+9/27/2019
+- exit plan in progress
