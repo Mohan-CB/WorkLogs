@@ -370,3 +370,6 @@
 
 9/27/2019
 - exit plan in progress
+
+10/12/2019
+- last day
